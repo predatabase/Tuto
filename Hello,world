@@ -1,0 +1,6 @@
+# It's a hello world code document.
+
+void main ()
+{   print("Hello, world! Poi!");
+    return 0;
+}
